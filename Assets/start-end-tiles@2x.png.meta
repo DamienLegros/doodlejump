@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: fdae44c30ff0c024cae0768a948bfe62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -40810539670604280
+    second: start-end-tiles@2x_0
+  - first:
+      213: 7392217743382805941
+    second: start-end-tiles@2x_1
+  - first:
+      213: 8536567514479135535
+    second: start-end-tiles@2x_2
+  - first:
+      213: -737100917251736049
+    second: start-end-tiles@2x_3
+  - first:
+      213: 8674369282039702366
+    second: start-end-tiles@2x_4
+  - first:
+      213: 5117516331178317842
+    second: start-end-tiles@2x_5
+  - first:
+      213: -7252708970234020524
+    second: start-end-tiles@2x_6
+  - first:
+      213: 7056137214316158526
+    second: start-end-tiles@2x_7
+  - first:
+      213: 4363333258663790373
+    second: start-end-tiles@2x_8
+  - first:
+      213: 1968406612332276638
+    second: start-end-tiles@2x_9
+  - first:
+      213: -8099465378656809325
+    second: start-end-tiles@2x_10
+  - first:
+      213: 1969210124186303079
+    second: start-end-tiles@2x_11
+  - first:
+      213: 728220775619327230
+    second: start-end-tiles@2x_12
+  - first:
+      213: 8506525597467633842
+    second: start-end-tiles@2x_13
+  - first:
+      213: -3660808981067906772
+    second: start-end-tiles@2x_14
+  - first:
+      213: 1634996054476700202
+    second: start-end-tiles@2x_15
+  - first:
+      213: 5476027007109667207
+    second: start-end-tiles@2x_16
+  - first:
+      213: -6052726763505726702
+    second: start-end-tiles@2x_17
+  - first:
+      213: -2925502280409952248
+    second: start-end-tiles@2x_18
+  - first:
+      213: 8507308208885535605
+    second: start-end-tiles@2x_19
+  - first:
+      213: 6204758663340497356
+    second: start-end-tiles@2x_20
+  - first:
+      213: 809893520938097788
+    second: start-end-tiles@2x_21
+  - first:
+      213: 8809099106059427962
+    second: start-end-tiles@2x_22
+  - first:
+      213: -5025984721137223733
+    second: start-end-tiles@2x_23
+  - first:
+      213: -3301082044357969061
+    second: start-end-tiles@2x_24
+  - first:
+      213: -720215671609823137
+    second: start-end-tiles@2x_25
+  - first:
+      213: -3010706878295858123
+    second: start-end-tiles@2x_26
+  - first:
+      213: -6119252480765009383
+    second: start-end-tiles@2x_27
+  - first:
+      213: -3234085375025083193
+    second: start-end-tiles@2x_28
+  - first:
+      213: -1085540317640804218
+    second: start-end-tiles@2x_29
+  - first:
+      213: -4982502240083438333
+    second: start-end-tiles@2x_30
+  - first:
+      213: 2083034669222442762
+    second: start-end-tiles@2x_31
+  - first:
+      213: -4269805910347437521
+    second: start-end-tiles@2x_32
+  - first:
+      213: -5829307542958857154
+    second: start-end-tiles@2x_33
+  - first:
+      213: -5962154126339438259
+    second: start-end-tiles@2x_34
+  - first:
+      213: -1170087473704807680
+    second: start-end-tiles@2x_35
+  - first:
+      213: 1728975255844644693
+    second: start-end-tiles@2x_36
+  - first:
+      213: 7362340371092791478
+    second: start-end-tiles@2x_37
+  - first:
+      213: 3659683888065482998
+    second: start-end-tiles@2x_38
+  - first:
+      213: -625771015040440491
+    second: start-end-tiles@2x_39
+  - first:
+      213: -3007840133573986898
+    second: start-end-tiles@2x_40
+  - first:
+      213: 3542533855377283339
+    second: start-end-tiles@2x_41
+  - first:
+      213: -562212332866438637
+    second: start-end-tiles@2x_42
+  - first:
+      213: 8151364120208160417
+    second: start-end-tiles@2x_43
+  - first:
+      213: -5924058546314963631
+    second: start-end-tiles@2x_44
+  - first:
+      213: 8833962258255134349
+    second: start-end-tiles@2x_45
+  - first:
+      213: -7271085557612056731
+    second: start-end-tiles@2x_46
+  - first:
+      213: 84686437455088052
+    second: start-end-tiles@2x_47
+  - first:
+      213: -6020066270831755158
+    second: start-end-tiles@2x_48
+  - first:
+      213: 5825607410336955185
+    second: start-end-tiles@2x_49
+  - first:
+      213: -3792939672910337821
+    second: start-end-tiles@2x_50
+  - first:
+      213: 417161007529327801
+    second: start-end-tiles@2x_51
+  - first:
+      213: 2731955803930965604
+    second: start-end-tiles@2x_52
+  - first:
+      213: -1820109957296077104
+    second: start-end-tiles@2x_53
+  - first:
+      213: 3898073403304909699
+    second: start-end-tiles@2x_54
+  - first:
+      213: -4428405584247406549
+    second: start-end-tiles@2x_55
+  - first:
+      213: -3831252870875081033
+    second: start-end-tiles@2x_56
+  - first:
+      213: 861874535163567403
+    second: start-end-tiles@2x_57
+  - first:
+      213: 625511682236719377
+    second: start-end-tiles@2x_58
+  - first:
+      213: -8301560959806287421
+    second: start-end-tiles@2x_59
+  - first:
+      213: 5618839871709879347
+    second: start-end-tiles@2x_60
+  - first:
+      213: 2128478449385160347
+    second: start-end-tiles@2x_61
+  - first:
+      213: -7200344696854054562
+    second: start-end-tiles@2x_62
+  - first:
+      213: 4252701312756576057
+    second: start-end-tiles@2x_63
+  - first:
+      213: 3835404522824462832
+    second: start-end-tiles@2x_64
+  - first:
+      213: -1297367860509689348
+    second: start-end-tiles@2x_65
+  - first:
+      213: 1834491708637605313
+    second: start-end-tiles@2x_66
+  - first:
+      213: -2572387535113077207
+    second: GameOver
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: start-end-tiles@2x_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 151
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80677d7c7030f6ff0800000000000000
+      internalID: -40810539670604280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 422
+        width: 156
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfba83fde669660800000000000000
+      internalID: 7392217743382805941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 422
+        width: 156
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0badfceaf77670800000000000000
+      internalID: 8536567514479135535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 441
+        width: 158
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e789ffe9a45c5f0800000000000000
+      internalID: -737100917251736049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 268
+        width: 164
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53698a37ec816870800000000000000
+      internalID: 8674369282039702366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 438
+        width: 189
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d42c4df1150740800000000000000
+      internalID: 5117516331178317842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 333
+        width: 222
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d79e93e93395b90800000000000000
+      internalID: -7252708970234020524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 333
+        width: 222
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9ab1596f6ce160800000000000000
+      internalID: 7056137214316158526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 358
+        width: 185
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278d471b7cad8c30800000000000000
+      internalID: 4363333258663790373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 246
+        width: 8
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6895826f215b10800000000000000
+      internalID: 1968406612332276638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 230
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e0692a62be89f80800000000000000
+      internalID: -8099465378656809325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 178
+        width: 156
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3a34bc2a045b10800000000000000
+      internalID: 1969210124186303079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_12
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 264
+        width: 151
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef479d8efe82b1a00800000000000000
+      internalID: 728220775619327230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 197
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b863dd16ff3d0670800000000000000
+      internalID: 8506525597467633842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2143e4a0a1323dc0800000000000000
+      internalID: -3660808981067906772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2abf3cbf3ca0b610800000000000000
+      internalID: 1634996054476700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 218
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789973bbc81cefb40800000000000000
+      internalID: 5476027007109667207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 222
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bcdbac315600ca0800000000000000
+      internalID: -6052726763505726702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d19a0d278667d0800000000000000
+      internalID: -2925502280409952248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57313690eb7001670800000000000000
+      internalID: 8507308208885535605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 205
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9107d412bbb1650800000000000000
+      internalID: 6204758663340497356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 208
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd765cdd15d3b00800000000000000
+      internalID: 809893520938097788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7022efd6f4304a70800000000000000
+      internalID: 8809099106059427962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73312668d104ab0800000000000000
+      internalID: -5025984721137223733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 189
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7f9bde533032d0800000000000000
+      internalID: -3301082044357969061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_25
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 195
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f60c99a74106f0800000000000000
+      internalID: -720215671609823137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 189
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a95cab02d736d0800000000000000
+      internalID: -3010706878295858123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 164
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e2193a4c041ba0800000000000000
+      internalID: -6119252480765009383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 154
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc08508c783e13d0800000000000000
+      internalID: -3234085375025083193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_29
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 168
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b7a125d26fe0f0800000000000000
+      internalID: -1085540317640804218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 133
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051d3f6c989adab0800000000000000
+      internalID: -4982502240083438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_31
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 146
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b3d9cefc68ec10800000000000000
+      internalID: 2083034669222442762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 145
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa0ed952a9eb4c0800000000000000
+      internalID: -4269805910347437521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 144
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ae67bca32a1fa0800000000000000
+      internalID: -5829307542958857154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_34
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 145
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498863396c224da0800000000000000
+      internalID: -5962154126339438259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_35
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 145
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d0bd54a303cfe0800000000000000
+      internalID: -1170087473704807680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_36
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 146
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576f0ea5dd8ef710800000000000000
+      internalID: 1728975255844644693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_37
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 144
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e0866f894c2660800000000000000
+      internalID: 7362340371092791478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_38
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 145
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01d5a3b1fc9c230800000000000000
+      internalID: 3659683888065482998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_39
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55767c9c390d057f0800000000000000
+      internalID: -625771015040440491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 640
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b821b5510246d0800000000000000
+      internalID: -3007840133573986898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_41
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 75
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09de86b5cb992130800000000000000
+      internalID: 3542533855377283339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 101
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af62bacde9238f0800000000000000
+      internalID: -562212332866438637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 75
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a63fd3ca767f1170800000000000000
+      internalID: 8151364120208160417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_44
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 98
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155974e932489cda0800000000000000
+      internalID: -5924058546314963631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_45
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 63
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e318a9ed9889a70800000000000000
+      internalID: 8833962258255134349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_46
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 75
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6f0f853ae71b90800000000000000
+      internalID: -7271085557612056731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 75
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9cdcdbddddc2100800000000000000
+      internalID: 84686437455088052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_48
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 74
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6043c25f9d647ca0800000000000000
+      internalID: -6020066270831755158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_49
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 75
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b74060317b8d050800000000000000
+      internalID: 5825607410336955185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_50
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 62
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e861bd9675cc5bc0800000000000000
+      internalID: -3792939672910337821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_51
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 75
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfde3e9bd0ac500800000000000000
+      internalID: 417161007529327801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_52
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 75
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4663f53445bd9e520800000000000000
+      internalID: 2731955803930965604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_53
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 75
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6473f13abadb6e0800000000000000
+      internalID: -1820109957296077104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_54
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 74
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b13608b1db81630800000000000000
+      internalID: 3898073403304909699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_55
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 75
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c39575942b82c0800000000000000
+      internalID: -4428405584247406549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_56
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 83
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69bc210d7a4dac0800000000000000
+      internalID: -3831252870875081033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_57
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 36
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d1165c25ef5fb00800000000000000
+      internalID: 861874535163567403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_58
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a3969f834ea800800000000000000
+      internalID: 625511682236719377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1de756a4eeacc80800000000000000
+      internalID: -8301560959806287421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 13
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c911be7112afd40800000000000000
+      internalID: 5618839871709879347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_61
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 12
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3daf5fdfd98d10800000000000000
+      internalID: 2128478449385160347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_62
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 14
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5975a3b5ac331c90800000000000000
+      internalID: -7200344696854054562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_63
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 13
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f61baef41a40b30800000000000000
+      internalID: 4252701312756576057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_64
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 14
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f0e8b7181a3530800000000000000
+      internalID: 3835404522824462832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_65
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 13
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9bf4bfdc2defde0800000000000000
+      internalID: -1297367860509689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start-end-tiles@2x_66
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd6ebc4d7c657910800000000000000
+      internalID: 1834491708637605313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 437
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e31f87a2b0d4cd0800000000000000
+      internalID: -2572387535113077207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
