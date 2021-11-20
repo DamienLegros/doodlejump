@@ -35,8 +35,8 @@ retour au menu quand on perd).
    - (Optionnel) des hélico-chapeaux qui l’aident à monter, puis disparaît
    - (Optionnel) des jet-packs, qui font comme les hélico-chapeaux, mais en plus fort
 
-**Voici une démonstration du jeu final avec le build :**
+**Voici une démonstration du jeu final dans le dossier _Test_ :**
 
 **Démonstration :**
 
-![Démonstration](https://github.com/DamienLegros/doodle-jump/blob/main/Demo.gif?raw=true)
+<img src="https://github.com/DamienLegros/doodle-jump/blob/main/Demo.gif?raw=true" width="300" />
