@@ -2,11 +2,11 @@
 
 Projet EVHI 2021-2022
 
-**Projet en binôme : Damien Legros, Petar Calic et Cédric Cornède
+**Projet en binôme : Damien Legros, Petar Calic et Cédric Cornède**
 
 Projet de développement d'un jeu vidéo du type **doodle jump** avec le moteur de jeu *Unity* au cours du master 2 ANDROIDE de septembre à octobre 2021 dans le cadre de l'UE EVHI.
 
-**Encadrement du projet : Nathan Bardin
+**Encadrement du projet : Nathan Bardin**
 
 Le projet consiste à développer les éléments suivants :
 
