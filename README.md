@@ -1,4 +1,4 @@
-# Doodle-Jump-Unity
+# Doodle Jump Unity
 
 Projet EVHI 2021-2022
 
